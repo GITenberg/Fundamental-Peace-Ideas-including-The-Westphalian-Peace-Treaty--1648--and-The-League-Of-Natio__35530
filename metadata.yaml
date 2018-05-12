@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37732'
     url: http://www.gutenberg.org/2009/agents/37732
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35530#Fundamental-Peace-Ideas-including-The-Westphalian-Peace-Treaty--1648--and-The-League-Of-Natio_
 gutenberg_issued: '2011-03-08'
 gutenberg_type: Text
 identifiers:
