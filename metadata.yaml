@@ -1,0 +1,32 @@
+_repo: Fundamental-Peace-Ideas-including-The-Westphalian-Peace-Treaty--1648--and-The-League-Of-Natio__35530
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacDonald, Arthur
+    birthdate: 1856
+    deathdate: 1936
+    gutenberg_agent_id: '37732'
+    url: http://www.gutenberg.org/2009/agents/37732
+description: ''
+gutenberg_issued: '2011-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35530'
+  lccn: '20026234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peace'
+- !lcc 'D501'
+- !lcsh 'Peace of Westphalia (1648)'
+- !lcc 'JX'
+title: 'Fundamental Peace Ideas including The Westphalian Peace Treaty (1648) and
+  The League Of Nations (1919)
+
+  in connection with International Psychology and Revolutions'
+url: http://www.gutenberg.org/ebooks/35530
